@@ -21,7 +21,9 @@ Files involved for I/O :
 
 Instructions to compile the the source code :
 	
-	1- Download the .dll and .jar files from https://drive.google.com/drive/folders/0B1bAlxn7fBs8dzFFanBHQ3FsMTA?usp=sharing
+	1- Download the .dll and .jar files from 
+	https://drive.google.com/drive/folders/0B1bAlxn7fBs8dzFFanBHQ3FsMTA?usp=sharing
+	
 	2- Copy the .dll files to C:\Windows\System32.
 	3- Add the CLIPSJNI.jar file to the Netbean project (not necessary if already exists).
 	4- Clean and Build the project in Netbeans IDE.
@@ -35,5 +37,5 @@ Instructions to run the project :
 How to play :
 	
 	Click on any one of the valid positions where you want to place the Black king and
-	 wait until the expert system makes any move. Once the game is over, quit the game by 
-	  clicking the 'Yes' option in the 'Game over' Dialogue box. 
+	wait until the expert system makes any move. Once the game is over, quit the game by 
+	clicking the 'Yes' option in the 'Game over' Dialogue box. 
